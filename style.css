@@ -25,7 +25,7 @@ main{
 }
 
 p{
-    font-size: 0.7rem;
+    font-size: 12px;
 }
 
 .image1{
@@ -74,7 +74,7 @@ h1{
 }
 
 .arrow{
-    height: 6px;
+    height: 9px;  
 }
 
 
